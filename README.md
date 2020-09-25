@@ -6,7 +6,7 @@
 # Install
 ## Max OS and Linux 
 ```bash
-curl https://github.com/hellojukay/ghget-pl/blob/master/ghget.pl | sudo tee /bin/ghget && chmod +x /bin/ghget
+sudo curl https://raw.githubusercontent.com/hellojukay/ghget-pl/master/ghget.pl -o /bin/ghget && sudo chmod +x /bin/ghget
 ```
 
 # 使用方式
