@@ -8,9 +8,11 @@
 ```bash
 curl https://github.com/hellojukay/ghget-pl/blob/master/ghget.pl | sudo tee /bin/ghget && chmod +x /bin/ghget
 ```
-# Windows
-请添加 ghget.pl 脚本到 PATH
 
 # 使用方式
-```shell
+```bash
+usage of ghget:
+    ghget <httpurl> 下载连接执行指向的文件
+
+感谢 https://g.ioiox.com/ 提供的免费服务
 ```
