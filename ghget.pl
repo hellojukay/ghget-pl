@@ -4,7 +4,7 @@
 #    通过 https://g.ioiox.com/ 提供的免费代理下载服务来实现快速下载
 #
 #
-# 目前无法不支持断点下载
+# 目前不支持断点下载
 
 
 
@@ -19,7 +19,7 @@ GetOptions ('h'   => \$help,
 
 sub print_usage(){
     print "usage of ghget:\n";
-    print "    ghget <httpurl> 下载连接执行指向的文件\n";
+    print "    ghget <httpurl> 下载连接向的文件\n";
     print "\n";
     print "感谢 https://g.ioiox.com/ 提供的免费服务\n\n";
 }
