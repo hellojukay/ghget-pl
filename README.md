@@ -12,7 +12,7 @@ sudo curl https://raw.githubusercontent.com/hellojukay/ghget-pl/master/ghget.pl 
 # 使用方式
 ```bash
 usage of ghget:
-    ghget <httpurl> 下载连接执行指向的文件
+    ghget <httpurl> 下载链接指向的文件
 
 感谢 https://g.ioiox.com/ 提供的免费服务
 ```
