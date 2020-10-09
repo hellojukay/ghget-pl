@@ -8,7 +8,10 @@
 ```bash
 sudo curl https://raw.githubusercontent.com/hellojukay/ghget-pl/master/ghget.pl -o /bin/ghget && sudo chmod +x /bin/ghget
 ```
-
+## Windows
+```bat
+ghget.exe 加入到 PATH
+```
 # 使用方式
 ```bash
 usage of ghget:
