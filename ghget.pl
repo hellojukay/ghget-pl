@@ -19,7 +19,7 @@ GetOptions ('h'   => \$help,
 
 sub print_usage(){
     print "usage of ghget:\n";
-    print "    ghget <httpurl> 下载连接向的文件\n";
+    print "    ghget <httpurl> 下载连接指向的文件\n";
     print "\n";
     print "感谢 https://g.ioiox.com/ 提供的免费服务\n\n";
 }
