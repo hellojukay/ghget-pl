@@ -3,8 +3,8 @@
 
 ![demo](demo.gif)
 
-# Install
-## Max OS and Linux 
+# 安装
+## Max OS 和 Linux 
 ```bash
 sudo curl https://raw.githubusercontent.com/hellojukay/ghget-pl/master/ghget.pl -o /bin/ghget && sudo chmod +x /bin/ghget
 ```
